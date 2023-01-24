@@ -1,4 +1,4 @@
-import mono_objective as mono_GA
+from genetic_algorithm import mono_objective as mono_GA
 from model_exp.model import get_model
 import numpy as np
 import pandas as pd

@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
-import genetic_operators
-import stimuli
-import utils
+from genetic_algorithm import genetic_operators
+from genetic_algorithm import stimuli
+from genetic_algorithm import utils
 
 
 class GABasic:

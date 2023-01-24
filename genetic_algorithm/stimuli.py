@@ -1,5 +1,5 @@
 import numpy as np
-import utils
+from genetic_algorithm import utils
 
 
 class Stimuli:
